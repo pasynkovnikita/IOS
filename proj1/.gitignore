@@ -1,0 +1,10 @@
+.idea
+
+logs/*
+!logs/.gitkeep
+
+corona
+
+osoby*
+!osoby-short.csv*
+infected-jan22/

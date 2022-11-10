@@ -1,0 +1,36 @@
+./corona -s countries osoby-short.csv osoby-short.csv.bz2 osoby-short.csv.gz
+AE: 
+AR: 
+AT: ###
+BE: 
+CA: 
+CH: 
+CM: 
+CR: 
+DE: 
+DK: 
+DO: 
+EG: 
+ES: 
+FR: 
+GB: 
+GR: 
+HU: 
+ID: 
+IE: 
+IL: 
+IT: ####
+MT: 
+MU: 
+NL: 
+OM: 
+PH: 
+PL: 
+PT: 
+SA: 
+SE: 
+SI: 
+SK: 
+TH: 
+TR: 
+US: 

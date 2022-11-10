@@ -1,0 +1,2 @@
+./corona -g M -s infected osoby-short.csv osoby-short.csv.bz2 osoby-short.csv.gz
+3228
